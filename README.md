@@ -8,5 +8,3 @@ instead of going in settings and finding changing appearance option of web page,
 This what extension will look like... image
 ![image](https://user-images.githubusercontent.com/109013965/178135227-30428164-4409-4389-84f4-ee1ac8005f9a.png)
 
-Now if you click on the ON/OFF button inside the extension the appearance of website will change image
-![image](https://user-images.githubusercontent.com/109013965/178135230-93858827-49e8-4ee0-8edc-6fd56934247d.png)
